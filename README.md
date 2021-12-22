@@ -1,2 +1,2 @@
-# Homedu-Website
-React website with tailwind Css
+# Homedu Web App
+
