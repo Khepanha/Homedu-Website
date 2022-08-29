@@ -106,7 +106,8 @@ const Login = () => {
             <div className="flex-1 h-full max-w-4xl mx-auto shadow-xl rounded-lg">
                 <div className="flex flex-col-reverse justify-center md:justify-start items-center md:items-start md:flex-row bg-white rounded-lg">
                     <div className="flex flex-col h-auto md:h-auto w-130 md:w-1/2 p-6 md:p-0 mx-14 md:mx-0">
-                        <img className="h-80 w-full rounded-tl-lg" src={Login_logo} alt="img"/>
+                        {/* <img className="h-80 w-full rounded-tl-lg" src={Login_logo} alt="img"/> */}
+                        <img className="h-80 w-full rounded-tl-lg" src="https://github.com/Khepanha/Homedu-Website/blob/main/src/assets/images/login_logo1.jpg?raw=true" alt="img"/>
                         <span className="font-semibold p-2 md:p-4">Log in to learn from Homedu</span>
                         <p className="p-2 md:p-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
                     </div>

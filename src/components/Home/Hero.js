@@ -5,8 +5,8 @@ import Typical from 'react-typical';
 // import video from '../../assets/videos/video-3.mp4';
 import video from '../../assets/videos/videoplayback.mp4';
 import img_slide_1 from '../../assets/images/congrats_studio_tutorials.jpg';
-import hero_image_2 from '../../assets/images/HeroImage_2.jpg';
-import hero_image_1 from '../../assets/images/HeroImage_1.jpg';
+import hero_image_2 from '../../assets/images/heroimage2.png';
+import hero_image_1 from '../../assets/images/heroimage1.jpg';
 import hero_image_3 from '../../assets/images/HeroImage_3.png';
 import hero_image_4 from '../../assets/images/HeroImage_4.jpg';
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -53,7 +53,7 @@ const Hero = () => {
                                 Play, learn and invent the next big things. Assembling their own computer kit to foster their creativities, solving real world problems and becoming the new inventors. 
                             </p>
                         </div>
-                        <img className="w-130 h-96 rounded-2xl" src={hero_image_1} alt="img" />
+                        <img className="w-130 h-96 rounded-2xl" src="https://github.com/Khepanha/Homedu-Website/blob/main/src/assets/images/HeroImage_1.jpg?raw=true" alt="img" />
                     </div>
                 </SwiperSlide>
                 <SwiperSlide>
